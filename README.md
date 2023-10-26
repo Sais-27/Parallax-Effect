@@ -5,7 +5,7 @@ Smooth parallax scrolling effect.<br/>
 Customizable parallax layers and speed.<br/>
 Easily integratable into existing web projects.
 # Installation
-Clone this [repository](https://github.com/Sais-27/Parallax-Effect.git).<br/>
+Clone this [Repository](https://github.com/Sais-27/Parallax-Effect.git).<br/>
 Open [Parallax.html](https://github.com/Sais-27/Parallax-Effect/blob/main/Parallax.html) in your web browser to view the parallax effect.
 # Usage
 Include the necessary CSS in your HTML document.<br/>
